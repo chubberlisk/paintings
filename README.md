@@ -9,7 +9,7 @@
     A repository of paintings and videos created using Microsoft Paint and Photos.
     <br />
     <br />
-    <a href="https://github.com/chubberlisk/chubberlisk.github.io/issues">Request a Painting</a>
+    <a href="https://github.com/chubberlisk/paintings/issues">Request a Painting</a>
   </p>
 </p>
 
