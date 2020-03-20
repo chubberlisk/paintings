@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/chubberlisk/chubberlisk.github.io">
-    <img src="wtw.png" alt="Logo" width="80" height="80">
+    <img src="paintings/wtw.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Paintings by Wen Ting Wang</h3>
