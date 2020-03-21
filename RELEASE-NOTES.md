@@ -13,5 +13,6 @@
 - Microsoft Paint logo
 - Sad parrot Ting GIF
 - Steve Jobs
+- Sunset with a cat mermaid
 - Tingker Bell
 - Work from home (WFH)
