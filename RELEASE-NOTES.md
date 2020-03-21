@@ -11,5 +11,6 @@
 - Lunch munch time for when you lunchin' as well as a "Making of" video
 - Microsoft Paint logo
 - Sad parrot Ting GIF
+- Steve Jobs
 - Tingker Bell
 - Work from home (WFH)
