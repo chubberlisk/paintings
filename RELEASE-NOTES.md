@@ -4,6 +4,7 @@
 
 ### What's new
 
+- Multiple paintings to describe accessibility
 - A boat
 - A cruise ship
 - Deployment process for '[Apply for teacher training](https://github.com/DFE-Digital/apply-for-postgraduate-teacher-training)' video
