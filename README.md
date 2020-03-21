@@ -33,6 +33,7 @@ Once upon a time, there survived a smol Thing in a big scary world. This was unt
 
 - [Semantic Versioning](https://semver.org/) will be followed.
 - Each **major** release will have a codename which will begin with A until Z and be named after a Yu-Gi-Oh! card owned by _Seto Kaiba_.
+- See [RELEASE-NOTES](/RELEASE-NOTES.md) for what's new.
 
 ## License
 
