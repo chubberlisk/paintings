@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/chubberlisk/chubberlisk.github.io">
-    <img src="wtw.png" alt="Logo" width="80" height="80">
+    <img src="all-of-the-tings/wtw.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Paintings by Wen Ting Wang</h3>
@@ -33,6 +33,7 @@ Once upon a time, there survived a smol Thing in a big scary world. This was unt
 
 - [Semantic Versioning](https://semver.org/) will be followed.
 - Each **major** release will have a codename which will begin with A until Z and be named after a Yu-Gi-Oh! card owned by _Seto Kaiba_.
+- See [RELEASE-NOTES](/RELEASE-NOTES.md) for what's new.
 
 ## License
 
