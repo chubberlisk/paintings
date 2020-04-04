@@ -29,6 +29,7 @@ Once upon a time, there survived a smol Thing in a big scary world. This was unt
 
 - [Microsoft Paint](https://support.microsoft.com/en-gb/help/4027344/windows-10-get-microsoft-paint)
 - [Microsoft Photos](https://www.microsoft.com/en-gb/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab)
+- [Pixlr X - free image editing online](https://pixlr.com/x/)
 
 ## Download
 
