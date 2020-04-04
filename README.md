@@ -43,7 +43,7 @@ Once upon a time, there survived a smol Thing in a big scary world. This was unt
   <img src="doc-images/download-painting.png" alt="Downloading a painting screenshot">
 </p>
 
-#### Downloading all of the paintings
+### Downloading all of the paintings
 
 1. Go to the [GitHub repository](https://github.com/chubberlisk/paintings) online
 2. Click on the `Clone or download` button
