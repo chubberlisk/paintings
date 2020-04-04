@@ -17,6 +17,7 @@
 
 - [About the Project](#about-the-project)
   - [Built With](#built-with)
+- [Download](#download)
 - [Releases](#releases)
 - [License](#license)
 
@@ -28,6 +29,29 @@ Once upon a time, there survived a smol Thing in a big scary world. This was unt
 
 - [Microsoft Paint](https://support.microsoft.com/en-gb/help/4027344/windows-10-get-microsoft-paint)
 - [Microsoft Photos](https://www.microsoft.com/en-gb/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab)
+
+## Download
+
+### Downloading a painting
+
+1. Go to the [GitHub repository](https://github.com/chubberlisk/paintings) online
+2. Click on the `all-of-the-tings` folder
+3. Click on the painting you want to download
+4. Click on the `Download` button
+
+<p align="center">
+  <img src="doc-images/download-painting.png" alt="Downloading a painting screenshot">
+</p>
+
+#### Downloading all of the paintings
+
+1. Go to the [GitHub repository](https://github.com/chubberlisk/paintings) online
+2. Click on the `Clone or download` button
+3. Click on the `Download ZIP` button
+
+<p align="center">
+  <img src="doc-images/download-paintings.png" alt="Downloading all paintings screenshot">
+</p>
 
 ## Releases
 
