@@ -57,7 +57,7 @@ Once upon a time, there survived a smol Thing in a big scary world. This was unt
 ## Releases
 
 - Each **big boi** release will have a codename which will begin with A until Z and be named after a Yu-Gi-Oh! card owned by _Seto Kaiba_.
-- See [RELEASE-NOTES](/RELEASE-NOTES.md) for what's new.
+- See [RELEASE-NOTES](/RELEASE-NOTES.md) for what's new or go to [Releases](https://github.com/chubberlisk/paintings/releases).
 
 ## License
 
