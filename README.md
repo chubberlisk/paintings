@@ -35,7 +35,7 @@ Once upon a time, there survived a smol Thing in a big scary world. This was unt
 
 ### Downloading a painting
 
-1. Go to the [GitHub repository](https://github.com/chubberlisk/paintings) online
+1. Go to the [GitHub repository](https://github.com/chubberlisk/paintings) online, ensuring you are on the `master` branch
 2. Click on the `all-of-the-tings` folder
 3. Click on the painting you want to download
 4. Click on the `Download` button
@@ -46,7 +46,7 @@ Once upon a time, there survived a smol Thing in a big scary world. This was unt
 
 ### Downloading all of the paintings
 
-1. Go to the [GitHub repository](https://github.com/chubberlisk/paintings) online
+1. Go to the [GitHub repository](https://github.com/chubberlisk/paintings) online, ensuring you are on the `master` branch
 2. Click on the `Clone or download` button
 3. Click on the `Download ZIP` button
 
