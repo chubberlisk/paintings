@@ -1,5 +1,11 @@
 # Release Notes
 
+## Unreleased
+
+### What's new
+
+- Baby Emma as well as a "Making of" video 
+
 ## v1.0.0
 
 ### What's new
