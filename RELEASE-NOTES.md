@@ -1,5 +1,12 @@
 # Release Notes
 
+## Unreleased
+
+### What's new
+
+- Baby Emma as well as a "Making of" video
+- Making it rain dollar tings
+
 ## v1.0.0
 
 ### What's new
