@@ -21,7 +21,7 @@
 - [Releases](#releases)
 - [License](#license)
 
-## About The Project
+## About the Project
 
 Once upon a time, there survived a smol Thing in a big scary world. This was until they saw some seemingly happy faces in response to paintings of a boat and cruise ship. From then onwards, it was decided that the paintings could not stop.
 
